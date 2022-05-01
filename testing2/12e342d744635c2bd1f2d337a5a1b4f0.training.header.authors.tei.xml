@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+ . .
+								 <surname>Sam</surname>
+								 <forename>N</forename> .
+							</persName>
+							<persName>
+								 <surname>Chhapgar</surname>,
+								 <roleName>Mehto. Bldg.•</roleName>,
+								 <forename>Pa</forename>.
+							</persName>
+							<persName>
+								<surname>nthaky</surname>
+								 <roleName>Road, � .. nd.heri</roleName> (
+								<forename>Ea</forename>.
+							</persName>
+							<persName>
+								<surname>st)</surname>,
+								 <forename>The</forename>
+							</persName>
+							<persName>
+								 <surname>Stata</surname>,
+								 <forename>Urban</forename>
+							</persName>
+							<persName>
+								 <surname>Oevelopme11t</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">I.K. Gujral Punjab Technical University</orgName>,
+							<lb/>
+							<address>
+								<settlement>Near</settlement>
+							</address>
+							<orgName type="institution">Pushpa Gujral Science City</orgName>,
+							<lb/>
+							<address>
+								<settlement>Ibban</settlement>,
+								<region>Kapurthala -</region>
+								<postCode>144603</postCode>,
+							<lb/>
+								<settlement>District Kapurthala</settlement>,
+							<lb/>
+								<country>Punjab.</country>
+							<lb/>
+							</address>
+							<orgName type="institution">Sikkim Students Welfare Association of Chandigarh</orgName>,
+							<lb/>
+							<orgName type="department">Through its</orgName>
+							<lb/>
+						</affiliation>
+						<affiliation>
+							<marker>R</marker>/o
+							<address>
+								<settlement>Dhajay</settlement>,
+							</address>
+							<orgName type="institution">Near Ranka Senior Secondary School,<lb/> P.O. &amp; P.S. Gangtok</orgName>,
+							<lb/>
+							<address>
+								<settlement>East Sikkim.</settlement>
+							<lb/>
+							</address>
+							<orgName type="department">Government of Sikkim</orgName>,
+							<lb/>
+							<address>
+								<settlement>Gangtok</settlement>.
+							<lb/>
+							</address>
+							<orgName type="department">Government of Sikkim</orgName>,
+							<lb/>
+							<address>
+								<settlement>Gangtok</settlement>,
+							<lb/>
+								<region>East Sikkim.</region>
+							<lb/>
+							</address>
+							<orgName type="department">Department of Social Justice Empowerment</orgName>,
+							<lb/>
+							<address>
+								<settlement>Room No. 721-A Wing</settlement>,
+							<lb/>
+							</address>
+							<orgName type="department">Government of India</orgName>,
+							<lb/>
+							<address>
+								<settlement>New Delhi.</settlement>
+							<lb/>
+							</address>
+							<orgName type="laboratory">I.T.F.T. Education Group</orgName>,
+							<lb/>
+							<address>
+								<addrLine>SCO 1-2-3</addrLine>,
+							<lb/>
+								<addrLine>Level III</addrLine>,
+								<addrLine>17 D</addrLine>,
+								<addrLine>Sector-17</addrLine>
+							<lb/>
+								<settlement>Chandigarh</settlement>,
+								<postCode>160017</postCode>,
+							<lb/>
+								<country>Punjab.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>8</marker>.
+							<lb/>
+							<orgName type="institution">Additional Chief Secretary</orgName>,
+							<lb/>
+							<orgName type="department">Education Department</orgName>,
+							<lb/>
+							<orgName type="department">Government of Sikkim</orgName>,
+							<lb/>
+							<address>
+								<settlement>Gangtok</settlement>,
+							<lb/>
+								<region>East Sikkim.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Indira Gandhi National Open University</orgName>,
+							<lb/>
+							<address>
+								<settlement>Regional Centre</settlement>,
+								<settlement>Gangtok</settlement>,
+							<lb/>
+								<addrLine>5 th Mile</addrLine>,
+								<settlement>Tadong</settlement>,
+							<lb/>
+								<postBox>P.O. Tadong</postBox>,
+							</address>
+							<orgName type="institution">P.S. Gangtok</orgName>,
+							<lb/>
+							<orgName type="institution">East Sikkim.<lb/> 10.<lb/> University Grants Commission</orgName>,
+							<lb/>
+							<orgName type="institution">Bahadur Shah Zafar Marg</orgName>,
+							<lb/>
+							<address>
+								<addrLine>New Delhi</addrLine>,
+							<lb/>
+								<settlement>Pin-110002.</settlement>
+							<lb/>
+							</address>
+							<orgName type="department">Ministry of Tribal Affairs</orgName>,
+							<lb/>
+							<orgName type="department">Ground Floor, D. Wing</orgName>,
+							<lb/>
+							<address>
+								<settlement>Shastri Bhawan</settlement>,
+							<lb/>
+								<addrLine>New Delhi</addrLine>,
+							<lb/>
+								<settlement>Pin-110001.</settlement>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

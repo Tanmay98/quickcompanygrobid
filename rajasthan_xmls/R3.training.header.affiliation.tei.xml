@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">R/o Ishavashyam</orgName>,
+							<address>
+								<addrLine>124, Shyam Nagar</addrLine>,
+								<addrLine>IInd Yojna, Pal<lb/> Road</addrLine>,
+								<region>Jodhpur.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="department">Rajasthan Public Service Commission</orgName>,
+							<address>
+								<addrLine>Ajmer Through Its<lb/> Secretary.<lb/> 2.<lb/> State Of Rajasthan</addrLine>,
+							</address>
+							<orgName type="department">Through Director</orgName>,
+							<orgName type="institution">Secondary Education<lb/> Rajasthan</orgName>,
+							<address>
+								<region>Bikaner.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Adarsh Chawa</orgName>,
+							<address>
+								<settlement>Barmer</settlement>,
+								<addrLine>District Barmer</addrLine>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Secretary</orgName>,
+							<orgName type="department">Department Of<lb/> Secondary Education</orgName>,
+							<lb/>
+							<orgName type="institution">Government Of Rajasthan</orgName>,
+							<lb/>
+							<address>
+								<settlement>Secretariat</settlement>,
+								<addrLine>Jaipur.<lb/> 2.<lb/> The Director</addrLine>,
+								<addrLine>Secondary Education</addrLine>,
+								<settlement>Bikaner</settlement>,
+								<settlement>District<lb/> Bikaner</settlement>,
+								<country>Rajasthan.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>.
+							<lb/>
+							<orgName type="institution">The Secretary</orgName>,
+							<orgName type="department">Rajasthan Public Service Commission</orgName>,
+							<lb/>
+							<address>
+								<settlement>Ajmer</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through Secretary</orgName>,
+							<orgName type="department">Department Of<lb/> Secondary Education</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<address>
+								<country>Bikaner.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<lb/>
+							<orgName type="institution">The Rajasthan Public Service Commissioner</orgName>,
+							<orgName type="department">Through<lb/> Secretary</orgName>,
+							<address>
+								<addrLine>Ajmer.<lb/> 3.<lb/> The Director</addrLine>,
+								<addrLine>Secondary Education</addrLine>,
+								<settlement>Rajasthan</settlement>,
+								<region>Bikaner.</region>
+							<lb/>
+								<settlement>Barmer</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through Secretary</orgName>,
+							<orgName type="department">Department Of<lb/> Education</orgName>,
+							<address>
+								<addrLine>Jaipur.<lb/> 2.<lb/> The Secretary</addrLine>,
+							</address>
+							<orgName type="department">Rajasthan Public Service Commission</orgName>,
+							<lb/>
+							<orgName type="institution">Goooghara Ghati</orgName>,
+							<address>
+								<addrLine>Jaipur Road</addrLine>,
+								<addrLine>Ajmer (Rajasthan)<lb/> 3.<lb/> The Director</addrLine>,
+								<addrLine>Secondary Education</addrLine>,
+								<settlement>Bikaner</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through Secretary</orgName>,
+							<orgName type="department">Department Of<lb/> Education</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<address>
+								<settlement>Secretariat</settlement>,
+								<addrLine>Jaipur.<lb/> 2.<lb/> The Director</addrLine>,
+							</address>
+							<orgName type="institution">Secondary Education Rajasthan</orgName>,
+							<address>
+								<country>Bikaner.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>.
+							<lb/>
+							<orgName type="department">Rajasthan Public Service Commission</orgName>,
+							<address>
+								<country>Rajasthan Ajmer</country>
+							<lb/>
+							</address>
+							<orgName type="department">Through Its Secretary.</orgName>
+							<lb/>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through Secretary</orgName>,
+							<orgName type="department">Department Of<lb/> Secondary Education</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<address>
+								<country>Bikaner.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<lb/>
+							<orgName type="institution">The Rajasthan Public Service Commission</orgName>,
+							<orgName type="department">Through<lb/> Secretary</orgName>,
+							<address>
+								<addrLine>Ajmer.<lb/> 3.<lb/> The Director</addrLine>,
+								<addrLine>Secondary Education</addrLine>,
+								<settlement>Rajasthan</settlement>,
+								<region>Bikaner.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Resident Of<lb/> Village Dungersingh Pura</orgName>,
+							<address>
+								<settlement>Tehsil Bhadra</settlement>,
+								<country>District<lb/> Hanumangarh.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="department">Rajasthan Public Service Commission</orgName>,
+							<address>
+								<settlement>Ajmer</settlement>,
+								<country>Through Its</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through Director</orgName>,
+							<orgName type="institution">Secondary Education<lb/> Rajasthan</orgName>,
+							<address>
+								<region>Bikaner.</region>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

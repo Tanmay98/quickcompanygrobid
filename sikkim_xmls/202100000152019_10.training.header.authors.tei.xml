@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								 <forename>Sangam</forename>
+								 <surname>Rai</surname> and Another Mr.
+								 <middlename>Yadev</middlename>
+							</persName>
+							<persName>
+								 <surname>Sharma</surname>,
+								 <roleName>Additional Public Prosecutor</roleName> and
+								 <forename>Mr</forename>.
+							</persName>
+							<persName>
+								 <surname>Sujan Sunwar</surname>,
+								 <forename>J</forename>
+							</persName>
+							<persName>
+								 <surname>U D G M E N</surname>
+								 <forename>T</forename>
+							</persName>
+							<persName>
+								 <surname>Meenakshi</surname>
+								 <forename>Madan</forename>
+							</persName>
+							<persName>
+								 <surname>Rai</surname>,
+								 <forename>J</forename>.
+								 <middlename>1</middlename>.
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

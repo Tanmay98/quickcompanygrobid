@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">Maharashtra Chamber of Housing<lb/> Industry</orgName>,
+							<orgName type="institution">Kalyan Dombivali Unit</orgName>,
+							<lb/>
+							<orgName type="department">having its office at Gandhare</orgName>,
+							<lb/>
+							<orgName type="institution">Opp.Radha Nagar Tower</orgName>,
+							<lb/>
+							<address>
+								<settlement>Radha Nagar</settlement>,
+								<addrLine>Khadak Pada</addrLine>,
+							<lb/>
+								<settlement>Kalyan</settlement> (
+								<region>West)</region>,
+								<postCode>421301</postCode>.
+							<lb/>
+							</address>
+							<orgName type="institution">Maharashtra Chamber of Housing<lb/> Industry</orgName>,
+							<orgName type="institution">Thane Unit</orgName>,
+							<lb/>
+							<orgName type="department">Ashar IT Park</orgName>,
+							<orgName type="department">Ground Floor</orgName>,
+							<lb/>
+							<address>
+								<addrLine>South Wing Road No.16Z</addrLine>,
+							<lb/>
+								<addrLine>Wagle Estate</addrLine>,
+								<settlement>Bradma</settlement>,
+							<lb/>
+								<settlement>Thane</settlement> (
+								<region>West)</region>,
+								<postCode>400604.</postCode>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>
+							<orgName type="department">st Floor</orgName>,
+							<address>
+								<addrLine>Plot No.13B</addrLine>,
+							<lb/>
+								<addrLine>Panvel Matheran Road</addrLine>,
+							<lb/>
+								<addrLine>Sector 19</addrLine>,
+								<country>New Panvel.<lb/> ..</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>
+							<orgName type="department">State of Maharashtra.<lb/> Through Urban Development Department</orgName>,
+							<lb/>
+							<address>
+								<settlement>Mantralaya</settlement>,
+								<region>Mumbai.</region>
+							<lb/>
+								<settlement>Bombay</settlement>.
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>
+							<orgName type="laboratory">The Deputy Collector and<lb/> Competent Authority (ULC)</orgName>,
+							<lb/>
+							<orgName type="institution">Thane Urban Complex</orgName>,
+							<address>
+								<addrLine>at Thane.</addrLine>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker> nd floor,
+							<lb/>
+							<address>
+								<settlement>Collectorate Building</settlement>,
+								<settlement>Thane</settlement>.
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

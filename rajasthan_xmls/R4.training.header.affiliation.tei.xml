@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through Additional Chief Secretary To<lb/> Govt. Of Rajasthan Medical Health And Family Welfare<lb/> Department</orgName>,
+							<address>
+								<addrLine>Jaipur.<lb/> 2.<lb/> The Joint Director</addrLine>,
+							</address>
+							<orgName type="institution">Medical And Health Services</orgName>,
+							<address>
+								<settlement>Bikaner<lb/> Zone</settlement>,
+								<region>Bikaner.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Choudhary Charan Singh Hostel</orgName>,
+							<address>
+								<addrLine>Tilak Nagar</addrLine>,
+								<addrLine>Sagar Road</addrLine>,
+							<lb/>
+								<settlement>Bikaner</settlement>.
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Secretary</orgName>,
+							<orgName type="department">Colonisation<lb/> Department</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<lb/>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Secretary</orgName>,
+							<orgName type="department">School<lb/> Education Department</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<lb/>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<lb/>
+							<orgName type="department">Director, Secondary Education Department</orgName>,
+							<address>
+								<region>Bikaner.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Secretary</orgName>,
+							<orgName type="department">School<lb/> Education Department</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<lb/>
+							<address>
+								<settlement>Secretariat</settlement>,
+								<addrLine>Jaipur.<lb/> 2.<lb/> The Director</addrLine>,
+							</address>
+							<orgName type="department">Secondary Education Department, Bikaner.<lb/> 3.<lb/> District Education Officer</orgName>,
+							<lb/>
+							<orgName type="department">Secondary Education<lb/> Department</orgName>,
+							<address>
+								<addrLine>Bikaner.<lb/> 4.<lb/> Principal</addrLine>,
+							</address>
+							<orgName type="department">Senior Sec. School Kalasar Dist. Bikaner.</orgName>
+							<lb/>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Secretary</orgName>,
+							<orgName type="department">Finance<lb/> Department</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<address>
+								<settlement>Secretariat</settlement>,
+							<lb/>
+								<region>Jaipur.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>.
+							<lb/>
+							<orgName type="department">Director, Elementary Education Department</orgName>,
+							<address>
+								<region>Bikaner.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Secretary</orgName>,
+							<address>
+								<addrLine>Command<lb/> Area Development And Wu Department</addrLine>,
+							</address>
+							<orgName type="institution">Government Of<lb/> Rajasthan</orgName>,
+							<address>
+								<settlement>Secretariat</settlement>,
+								<addrLine>Jaipur.<lb/> 2.<lb/> Commissioner</addrLine>,
+							</address>
+							<orgName type="department">Command Area Development Department</orgName>,
+							<lb/>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Secretary</orgName>,
+							<orgName type="department">Finance<lb/> Department</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<address>
+								<settlement>Secretariat</settlement>,
+							<lb/>
+								<addrLine>Jaipur.<lb/> 2.<lb/> Director</addrLine>,
+							</address>
+							<orgName type="department">Elementary Education Department</orgName>,
+							<address>
+								<region>Bikaner.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Secretary</orgName>,
+							<orgName type="department">School<lb/> Education Department</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<lb/>
+							<address>
+								<settlement>Secretariat</settlement>,
+								<addrLine>Jaipur.<lb/> 2.<lb/> Director</addrLine>,
+							</address>
+							<orgName type="department">Secondary Education Department, Bikaner.<lb/> 3.<lb/> Deputy Director, Secondary Education</orgName>,
+							<address>
+								<settlement>Churu Division</settlement>,
+							<lb/>
+								<addrLine>Churu.<lb/> 4.<lb/> District Education Officer</addrLine>,
+								<addrLine>Secondary Education, Churu.<lb/> 5.<lb/> Chief Block Education Officer</addrLine>,
+								<settlement>Churu</settlement>,
+								<region>District Churu.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Chanakya Emporium</orgName>,
+							<address>
+								<addrLine>Jain Market</addrLine>,
+							</address>
+							<orgName type="department">District Churu.</orgName>
+							<lb/>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<address>
+								<settlement>Through The Secretary</settlement>,
+								<country>School</country>
+							<lb/>
+								<postCode>2020</postCode>]
+							<lb/>
+							</address>
+							<orgName type="department">Education Department</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<lb/>
+							<address>
+								<settlement>Secretariat</settlement>,
+								<addrLine>Jaipur.<lb/> 2.<lb/> Director</addrLine>,
+							</address>
+							<orgName type="department">Secondary Education Department, Bikaner.<lb/> 3.<lb/> District Education Officer</orgName>,
+							<address>
+								<addrLine>Secondary Education</addrLine>,
+								<region>Churu.</region>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

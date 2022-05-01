@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">Union Of India</orgName>, Through The Secretary To The<lb/> Government,
+							<orgName type="department">Ministry Of Ayush</orgName>,
+							<address>
+								<region>Government Of</region>
+								<country>India New<lb/> Delhi.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<lb/>
+							<orgName type="institution">The Central Council Of Indian Medicines</orgName>,
+							<orgName type="institution">Jawaharlal Nehru<lb/> Bhartiya Chikitsa Avam Homeopathy Anusandhan Bhawan</orgName>,
+							<lb/>
+							<address>
+								<addrLine>61-65</addrLine>,
+							</address>
+							<orgName type="department">Institutional Area</orgName>,
+							<address>
+								<addrLine>Jankpuri D Block</addrLine>,
+								<settlement>New Delhi -<lb/>110058</settlement>
+							<lb/>
+							</address>
+							<orgName type="department">Dholi Mnadi</orgName>,
+							<lb/>
+							<address>
+								<settlement>Chomu</settlement>,
+							<lb/>
+								<region>Jaipur</region>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">The Union Of India</orgName>, Through The Secretary To The<lb/> Government,
+							<orgName type="department">Ministry Of Ayush</orgName>,
+							<orgName type="department">Government Of</orgName>
+							<address>
+								<country>India<lb/> New Delhi.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<lb/>
+							<orgName type="institution">The Central Council Of Indian Medicines</orgName>,
+							<orgName type="institution">Jawaharlal<lb/> Nehru Bhartiya Chikitsa Avam Homeopathy Anusandhan<lb/> Bhawan</orgName>,
+							<address>
+								<addrLine>61-65</addrLine>,
+							</address>
+							<orgName type="department">Institutional Area</orgName>,
+							<address>
+								<addrLine>Jankpuri D Block</addrLine>,
+							<lb/>
+								<settlement>New Delhi</settlement>-
+								<postCode>110 058.</postCode>
+							<lb/>
+							</address>
+							<orgName type="laboratory">About 25 Years</orgName>,
+							<address>
+								<addrLine>Ward No.7</addrLine>,
+								<settlement>Banda Ka Jhupda</settlement>,
+								<settlement>Bhilwara</settlement>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">Union Of India</orgName>, Through Secretary To The Government,
+							<lb/>
+							<orgName type="department">Ministry Of Ayush</orgName>,
+							<address>
+								<region>Government Of India</region>,
+								<settlement>Ayush<lb/> Bhawan</settlement>,
+								<addrLine>B Block</addrLine>,
+							</address>
+							<orgName type="institution">G.p.o. Complex</orgName>,
+							<address>
+								<settlement>Ina</settlement>,
+								<settlement>New Delhi</settlement>,
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<lb/>
+							<orgName type="institution">The Central Council For Indian Medicine</orgName>,
+							<orgName type="institution">Situated At<lb/> Janakpuri</orgName>,
+							<address>
+								<settlement>New Delhi (110058)</settlement>
+							<lb/>
+							</address>
+							<orgName type="institution">Rajasthan Ayurved University</orgName>,
+							<address>
+								<settlement>Karwar</settlement>,
+								<addrLine>Nagaur<lb/> Road</addrLine>,
+								<settlement>Jodhpur</settlement>,
+								<addrLine>Through The Registrar At Jodhpur.<lb/> 4.<lb/> The Controller Of Examination</addrLine>,
+							</address>
+							<orgName type="institution">Dr. S.r. Rajasthan<lb/> Ayurveda University</orgName>,
+							<address>
+								<settlement>Karwar</settlement>,
+								<addrLine>Nagaur Road</addrLine>,
+								<settlement>Jodhpur</settlement>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">The Union Of India</orgName>, Through The Secretary To The<lb/> Government ,
+							<orgName type="department">Ministry Of Ayush</orgName>,
+							<orgName type="department">Government Of</orgName>
+							<address>
+								<country>India<lb/> New Delhi.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<lb/>
+							<orgName type="institution">The Central Council Of Indian Medicines</orgName>,
+							<orgName type="institution">Jawaharlal<lb/> Nehru Bhartiya Chikitsa Avam Homeopathy<lb/> Anusandhan Bhawan</orgName>,
+							<address>
+								<addrLine>61-65</addrLine>,
+							</address>
+							<orgName type="department">Institutional Area</orgName>,
+							<lb/>
+							<address>
+								<addrLine>Jankpuri D Block</addrLine>,
+								<settlement>New Delhi -110058</settlement>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

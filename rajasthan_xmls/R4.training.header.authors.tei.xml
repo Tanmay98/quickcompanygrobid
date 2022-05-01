@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								 <surname>Prem</surname>
+								 <forename>Ratan</forename>
+							</persName>
+							<persName>
+								 <surname>Taneja</surname>
+								 <marker>S/o</marker>
+								 <forename>Shri</forename>
+							</persName>
+							<persName>
+								 <surname>Ganpat</surname>
+								 <forename>Ram</forename>
+							</persName>
+							<persName>
+								 <surname>Taneja</surname>,
+								 <forename>Neelam</forename>
+							</persName>
+							<persName>
+								 <surname>Devani</surname>
+								 <marker>W/o</marker>
+							</persName>
+							<persName>
+								 <surname>Shri</surname>
+								 <forename>Nandlal</forename>
+							</persName>
+							<persName>
+								 <surname>Devani</surname>,
+								 <forename>Chand</forename>
+							</persName>
+							<persName>
+								 <surname>Ratan Mahatma</surname>
+								 <marker>S/o</marker>
+								 <forename>Shri</forename>
+							</persName>
+							<persName>
+								 <surname>Ramdas</surname>,
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

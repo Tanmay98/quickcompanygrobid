@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<marker>1</marker>
+							<lb/>
+							<orgName type="department">IN THE HIGH COURT OF JUDICATURE AT MADRAS</orgName>
+							<lb/>
+							<address>
+								<addrLine>Poonamallee High Road</addrLine>,
+							<lb/>
+								<settlement>Chennai</settlement>-
+								<postCode>600 003.</postCode>
+							<lb/>
+								<settlement>Revenue [LD-I(1)] Department</settlement>,
+							<lb/>
+								<addrLine>Fort.St.George</addrLine>,
+								<addrLine>Chennai-600 009.<lb/> 2</addrLine>.
+							<lb/>
+							</address>
+							<orgName type="institution">The District Collector</orgName>,
+							<lb/>
+							<orgName type="institution">Chennai District</orgName>,
+							<lb/>
+							<address>
+								<addrLine>Singaravelar Maaligai</addrLine>,
+								<addrLine>Rajaji Salai</addrLine>,
+							<lb/>
+								<addrLine>Chennai-600 001.<lb/> 3</addrLine>.
+							<lb/>
+							</address>
+							<orgName type="institution">The Administrator General<lb/> and Official Trustee of Tamil Nadu</orgName>,
+							<lb/>
+							<orgName type="institution">High Court Campus</orgName>,
+							<lb/>
+							<address>
+								<addrLine>Chennai-600 104.</addrLine>
+							<lb/>
+							</address>
+							<orgName type="institution">Harini Towers</orgName>,
+							<address>
+								<addrLine>No.7</addrLine>,
+								<addrLine>Conran Smith Road</addrLine>,
+							<lb/>
+								<settlement>Gopalapuram</settlement>,
+							<lb/>
+								<postCode>Chennai-600 086.</postCode>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

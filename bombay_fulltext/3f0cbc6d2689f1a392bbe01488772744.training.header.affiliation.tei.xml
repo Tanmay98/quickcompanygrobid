@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">Versus<lb/> Deputy Director of Health Services<lb/> ) through the District Health Officer<lb/> ) Zilla Parishad</orgName>,
+							<address>
+								<settlement>Latur</settlement>,
+								<settlement>Tal. &amp; District Latur</settlement>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>)
+							<address>
+								<settlement>Managar</settlement>,
+								<country>United India Insurance Company)<lb/> R.P. Road, Jalna.</country>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">Resident Of Indira Colony</orgName>,
+							<address>
+								<settlement>Nagaur</settlement>,
+							<lb/>
+								<region>Rajasthan.</region>
+							<lb/>
+								<settlement>Bansi Ka Bass</settlement>,
+								<settlement>Bhooda</settlement>,
+							<lb/>
+								<settlement>Alwar</settlement>,
+								<region>Rajasthan</region>
+								<postCode>301409.</postCode>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">The National Council For Teachers Education</orgName>,
+							<orgName type="department">Through Its<lb/> Chairperson</orgName>,
+							<address>
+								<postCode>G-7</postCode>,
+								<addrLine>Sector-10</addrLine>,
+								<settlement>Dwarka</settlement>,
+							</address>
+							<orgName type="institution">Landmark -Near<lb/> Metro Station</orgName>,
+							<address>
+								<settlement>Delhi</settlement>
+								<postCode>110075.<lb/> 2</postCode>.
+							<lb/>
+							</address>
+							<orgName type="institution">The State Of Rajasthan</orgName>,
+							<orgName type="department">Through Its Principal Secretary</orgName>,
+							<lb/>
+							<orgName type="department">Panchayati Raj Department</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<lb/>
+							<address>
+								<settlement>Secretariat</settlement>,
+								<settlement>Jaipur</settlement>,
+								<country>Rajasthan.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>.
+							<lb/>
+							<orgName type="institution">The State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Principal Secretary</orgName>,
+							<lb/>
+							<orgName type="department">Elementary Education</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<address>
+								<settlement>Jaipur</settlement>,
+							<lb/>
+								<addrLine>Rajasthan.<lb/> 4.<lb/> The Director</addrLine>,
+							</address>
+							<orgName type="department">Elementary Education</orgName>,
+							<address>
+								<settlement>Bikaner</settlement>,
+								<country>Rajasthan.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>5</marker>.
+							<lb/>
+							<orgName type="institution">The Board Of Secondary Education</orgName>,
+							<address>
+								<settlement>Ajmer</settlement>,
+								<region>Rajasthan</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Resident Of Village<lb/> Bayan Tehsil Tara Nagar</orgName>,
+							<orgName type="department">District Churu.</orgName>
+							<lb/>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Principal Secretary<lb/> Panchayati Raj And Rural Development Department</orgName>,
+							<lb/>
+							<orgName type="institution">Government Of Rajasthan</orgName>,
+							<address>
+								<settlement>Secretariat</settlement>,
+								<region>Jaipur.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Balai Mauhalla</orgName>,
+							<address>
+								<settlement>Raipur</settlement>,
+								<settlement>Bhilwara</settlement>,
+							<lb/>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Kumwat Ohalla</orgName>,
+							<address>
+								<settlement>Raipur</settlement>,
+								<settlement>Bhilwara</settlement>,
+							<lb/>
+								<region>Rajasthan.<lb/> 7.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Village Raipur</orgName>,
+							<address>
+								<settlement>Bhilwara</settlement>,
+								<region>Jodhpur.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Village Borana Road</orgName>,
+							<address>
+								<settlement>Raipur</settlement>,
+								<settlement>Bhilwara</settlement>,
+							<lb/>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>R</marker>/o
+							<address>
+								<settlement>Suras Thala</settlement>,
+								<settlement>Bhilwara</settlement>,
+								<country>Rajasthan.<lb/> 10.</country>
+							<lb/>
+							</address>
+							<orgName type="department">Opposite Push Provisional Store</orgName>,
+							<address>
+								<settlement>Gulab Bari</settlement>,
+								<settlement>Ajmer</settlement>,
+							<lb/>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Village Chamu</orgName>,
+							<address>
+								<settlement>Tehsil Balesar</settlement>,
+							<lb/>
+							</address>
+							<orgName type="institution">Uparli Bass</orgName>,
+							<address>
+								<settlement>Sopra</settlement>,
+							<lb/>
+								<settlement>Hiradesar</settlement>,
+								<settlement>Bhopalgarh</settlement>,
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Sojat Gate</orgName>,
+							<address>
+								<settlement>Bilara</settlement>,
+								<settlement>Jodhpur</settlement>,
+							<lb/>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Sewdo Ka Vas</orgName>,
+							<address>
+								<settlement>Beethu</settlement>,
+								<settlement>Pali</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Chandana Bhakar</orgName>,
+							<address>
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+								<settlement>Keru</settlement>,
+								<settlement>Jodhpur</settlement>,
+							<lb/>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Aai Mata Mandir Ke Pass</orgName>,
+							<orgName type="institution">Maderna Colony</orgName>,
+							<address>
+								<settlement>Krishi<lb/> Mandi</settlement>,
+								<addrLine>Mandore Road</addrLine>,
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+								<settlement>Asind</settlement>,
+							<lb/>
+								<settlement>Bhilwara</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Village Bananiyo Ki Dhani</orgName>,
+							<address>
+								<settlement>Bhandu</settlement>,
+							</address>
+							<orgName type="institution">Tehsil<lb/> Shergarh</orgName>,
+							<address>
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+								<settlement>Thane</settlement>,
+								<settlement>Bagore</settlement>,
+								<settlement>Bhilwara</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Raghunath Pura</orgName>,
+							<orgName type="institution">Tehsil Asind</orgName>,
+							<lb/>
+							<address>
+								<settlement>Bhilwara</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+								<addrLine>2 H Ii</addrLine>,
+								<settlement>Maderan</settlement>,
+								<settlement>Ganganagar</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Village Jooniya</orgName>,
+							<address>
+								<settlement>Kekri</settlement>,
+								<settlement>Ajmer</settlement>,
+							<lb/>
+								<region>Rajasthan.</region>
+							<lb/>
+								<settlement>Himmatpura</settlement>,
+								<settlement>Shergarh</settlement>,
+							<lb/>
+								<region>Jodhpur.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Juniya</orgName>,
+							<address>
+								<settlement>Ajmer</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Kalinagri Gate</orgName>,
+							<address>
+								<settlement>Shahpura</settlement>,
+							<lb/>
+								<settlement>Bhilwara</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Kailash Nagar</orgName>,
+							<address>
+								<addrLine>Ward No. 42</addrLine>,
+							</address>
+							<orgName type="institution">Tehsil<lb/> Jodhpur</orgName>,
+							<orgName type="department">District Jodhpur.</orgName>
+							<lb/>
+							<orgName type="institution">R/o Phuliya Gate</orgName>,
+							<address>
+								<settlement>Shahpura</settlement>,
+								<settlement>Bhilwara</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Village Khokha</orgName>,
+							<address>
+								<addrLine>Tehsil Bagoda</addrLine>,
+							</address>
+							<orgName type="department">District Jalore</orgName>,
+							<lb/>
+							<address>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>R</marker>/o
+							<address>
+								<settlement>Brahmano Ka Bas</settlement>,
+								<settlement>Boranada</settlement>,
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>R</marker>/o
+							<address>
+								<settlement>Bankal Sar Basti</settlement>,
+								<addrLine>Viratra Road</addrLine>,
+								<settlement>Chohtan</settlement>,
+								<settlement>Barmer</settlement>,
+							<lb/>
+								<region>Jodhpur.</region>
+							<lb/>
+								<settlement>Jalore</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Secretary</orgName>,
+							<orgName type="department">Department Of<lb/> Rural And Panchayati Raj</orgName>,
+							<orgName type="department">Government Of Rajasthan</orgName>,
+							<lb/>
+							<address>
+								<settlement>Secretariat</settlement>,
+								<settlement>Jaipur</settlement>,
+								<country>Rajasthan.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.<lb/> Deputy Secretary To The Government,
+							<orgName type="department">Department Of<lb/> Rural Development And Panchayati Raj</orgName>,
+							<address>
+								<settlement>Secretariat</settlement>,
+								<settlement>Jaipur</settlement>,
+							<lb/>
+								<country>Rajasthan.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>.
+							<lb/>
+							<address>
+								<settlement>Secretary</settlement>,
+							</address>
+							<orgName type="department">Department Of Education</orgName>,
+							<orgName type="institution">Government Of<lb/> Rajasthan</orgName>,
+							<address>
+								<settlement>Jaipur</settlement>,
+								<addrLine>Rajasthan.<lb/> 4.<lb/> Director</addrLine>,
+								<addrLine>Elementary Education</addrLine>,
+								<settlement>Bikaner</settlement>,
+							</address>
+							<orgName type="department">District Bikaner</orgName>,
+							<lb/>
+							<address>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="laboratory">Resident Of Badri Pan Shop</orgName>,
+							<address>
+								<addrLine>1St B-Road</addrLine>,
+							<lb/>
+								<settlement>Sardarpura</settlement>,
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="laboratory">Resident Of Jatiyo Ka Barla Bass</orgName>,
+							<address>
+								<addrLine>Nanan Road</addrLine>,
+								<settlement>Pipar City</settlement>,
+							<lb/>
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">The State Of Rajasthan</orgName>,
+							<orgName type="department">Through Secretary</orgName>,
+							<orgName type="department">Department Of<lb/> Rural And Panchayati Raj</orgName>,
+							<address>
+								<settlement>Government</settlement>,
+							</address>
+							<orgName type="institution">Government Of<lb/> Rajasthan</orgName>,
+							<address>
+								<settlement>Secretariat</settlement>,
+								<settlement>Jaipur</settlement>,
+								<country>Rajasthan.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.<lb/> Deputy Secretary To The Government,
+							<orgName type="department">Department Of<lb/> Rural Development And Panchayati Raj</orgName>,
+							<address>
+								<settlement>Secretariat</settlement>,
+								<settlement>Jaipur</settlement>,
+							<lb/>
+								<country>Rajasthan.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>.
+							<lb/>
+							<address>
+								<settlement>Secretary</settlement>,
+							</address>
+							<orgName type="department">Department Of Education</orgName>,
+							<orgName type="institution">Government Of<lb/> Rajasthan</orgName>,
+							<address>
+								<settlement>Jaipur</settlement>,
+								<addrLine>Rajasthan.<lb/> 4.<lb/> Director</addrLine>,
+								<addrLine>Elementary Education</addrLine>,
+								<settlement>Bikaner</settlement>,
+							</address>
+							<orgName type="department">District Bikaner</orgName>,
+							<lb/>
+							<address>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Village Ghardu Ki Dhani</orgName>,
+							<orgName type="department">Behind Govt. Girls School</orgName>,
+							<lb/>
+							<address>
+								<settlement>Surajgarh Jhunjhunu</settlement>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Vijayram Mohalla</orgName>,
+							<address>
+								<settlement>Bilota</settlement>,
+							</address>
+							<orgName type="department">District Tonk</orgName>,
+							<lb/>
+							<address>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Indoli</orgName>,
+							<orgName type="department">District Dholpur</orgName>,
+							<address>
+								<country>Rajasthan.<lb/> 31.<lb/> Ashok</country>
+							</address>
+							<orgName type="institution">Nehra S/o Shri Likhmaram Jat</orgName>,
+							<address>
+								<addrLine>Aged About 26<lb/> Years</addrLine>,
+								<region>R/o 3</region>,
+							</address>
+							<orgName type="institution">Bhagwati Jagdamba Nagar</orgName>,
+							<address>
+								<settlement>Harnathpura</settlement>,
+							<lb/>
+								<settlement>Jhotwara</settlement>,
+							</address>
+							<orgName type="department">District Jaipur</orgName>,
+							<address>
+								<region>Rajasthan.</region>
+							<lb/>
+								<settlement>Palera</settlement>,
+							</address>
+							<orgName type="department">District Jaipur</orgName>,
+							<lb/>
+							<address>
+								<region>Rajasthan.</region>
+							<lb/>
+								<addrLine>30</addrLine>,
+								<addrLine>Godara Basti</addrLine>,
+								<addrLine>Khatipura Road</addrLine>,
+								<settlement>Jhotwara</settlement>,
+							<lb/>
+								<addrLine>District Jaipur</addrLine>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Koli Mohalla</orgName>,
+							<address>
+								<addrLine>Village Balin</addrLine>,
+								<settlement>Hurra</settlement>,
+							<lb/>
+								<settlement>Mahwa</settlement>,
+							</address>
+							<orgName type="department">District Dausa</orgName>,
+							<address>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Village Balin</orgName>,
+							<address>
+								<settlement>Hurra</settlement>,
+								<settlement>Mahwa</settlement>,
+							</address>
+							<orgName type="department">District Dausa</orgName>,
+							<address>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>R</marker>/o
+							<address>
+								<settlement>Birharu</settlement>,
+							</address>
+							<orgName type="department">District Bharatpur</orgName>,
+							<address>
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Mangren Khurd</orgName>,
+							<address>
+								<settlement>Vallabhgarh</settlement>,
+								<settlement>Bayana</settlement>,
+								<settlement>District<lb/> Bharatpur</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">Union Of India</orgName>,
+							<orgName type="department">Through Secretary</orgName>,
+							<orgName type="department">Minister Of Education</orgName>,
+							<lb/>
+							<address>
+								<addrLine>Shastri Bhawan</addrLine>,
+								<addrLine>Rajendra Prasad</addrLine>,
+								<settlement>Marg</settlement>,
+								<country>Delhi.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<lb/>
+							<address>
+								<settlement>Chairperson</settlement>,
+							</address>
+							<orgName type="institution">National Council For Teacher Education</orgName>,
+							<address>
+								<postCode>G-7</postCode>,
+							<lb/>
+								<addrLine>Sector-10 Dwarka</addrLine>,
+								<addrLine>Landmark-Near Metro Station</addrLine>,
+								<addrLine>New<lb/> Delhi-110075.<lb/> 3.<lb/> The Co-Ordinator</addrLine>,
+							</address>
+							<orgName type="institution">Rajasthan Eligibility Examination For<lb/> Teacher</orgName>,
+							<address>
+								<settlement>Rbse</settlement>,
+								<settlement>Ajmer</settlement>,
+								<country>Rajasthan.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>4</marker>.
+							<lb/>
+							<orgName type="institution">The State Of Rajasthan</orgName>,
+							<orgName type="department">Through The Principal Secretary</orgName>,
+							<lb/>
+							<address>
+								<addrLine>Jaipur Rajasthan.<lb/> 5.<lb/> The Secretary</addrLine>,
+							</address>
+							<orgName type="department">Board Of Secondary Education</orgName>,
+							<address>
+								<settlement>Ajmer</settlement>,
+								<region>Rajiv</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Civil Line</orgName>,
+							<address>
+								<settlement>Ajmer</settlement>,
+								<addrLine>Rajasthan.<lb/> 6.<lb/> Director</addrLine>,
+							</address>
+							<orgName type="institution">Board Of Secondary Education</orgName>,
+							<address>
+								<settlement>Ajmer</settlement>,
+								<region>Rajiv</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Sarsai</orgName>,
+							<address>
+								<settlement>Dhanwara</settlement>,
+								<settlement>Kumher</settlement>,
+								<settlement>District<lb/> Bharatpur</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+								<addrLine>R/o Kumawato Ka Mohalla</addrLine>,
+								<settlement>Bobas</settlement>,
+								<settlement>District<lb/> Jaipur</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Charki Mohalla</orgName>,
+							<address>
+								<settlement>Mandawar</settlement>,
+								<settlement>Mahwa</settlement>,
+								<settlement>District<lb/> Dausa</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Village Talwar</orgName>,
+							<address>
+								<addrLine>Post Jaguwas</addrLine>,
+							</address>
+							<orgName type="institution">Tehsil Behror, District<lb/> Nirwal</orgName>,
+							<address>
+								<settlement>Hanumangarh</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">R/o Ram Nagars</orgName>,
+							<address>
+								<settlement>Rundh</settlement>,
+								<settlement>Roopbas</settlement>,
+							<lb/>
+								<settlement>Bharatpur</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>R</marker>/o
+							<address>
+								<settlement>Churada</settlement>,
+								<settlement>Dhumath</settlement>,
+								<settlement>Banswara</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+								<addrLine>Bharatpur Road Gusai Mohalla Haveli Thok Rajora Khurd<lb/> Dholpur Rajasthan<lb/> 66</addrLine>.
+							<lb/>
+							</address>
+							<orgName type="institution">Prabhat Kumar S/o Uddam Singh</orgName>,
+							<address>
+								<addrLine>Aged About 33 Years</addrLine>,
+							<lb/>
+								<settlement>Santruk</settlement>,
+								<settlement>Kumher</settlement>,
+								<settlement>Bharatpur</settlement>,
+								<settlement>Rajasthan<lb/> 67.</settlement>
+							<lb/>
+								<addrLine>About 27 Years</addrLine>,
+								<settlement>Khutiya</settlement>,
+								<settlement>Chittorgarh</settlement>,
+								<region>Rajasthan</region>
+							<lb/>
+								<settlement>Kalawat</settlement>,
+								<settlement>Udaipur</settlement>,
+								<country>Rajasthan<lb/> 73.<lb/> Rohitash</country>
+							</address>
+							<orgName type="institution">Kumar S/o Rameshwar Kumar</orgName>,
+							<address>
+								<addrLine>Aged About 23<lb/> Years</addrLine>,
+								<addrLine>Ward No.13</addrLine>,
+								<settlement>Gandeli</settlement>,
+								<settlement>Hanumangarh</settlement>,
+								<country>Rajasthan<lb/> 74.<lb/> Ruchi</country>
+							</address>
+							<orgName type="department">D/o Kunj Bihari</orgName>,
+							<address>
+								<addrLine>Aged About 35 Years</addrLine>,
+								<addrLine>Ram Nagar</addrLine>,
+							<lb/>
+								<settlement>Roopwas</settlement>,
+								<settlement>Bharatpur</settlement>,
+								<country>Rajasthan</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>75</marker>.
+							<lb/>
+							<orgName type="institution">Sachin Kumar S/o Banwari Lal</orgName>,
+							<address>
+								<addrLine>Aged About 26 Years</addrLine>,
+							<lb/>
+							</address>
+							<orgName type="institution">Nunhera Vanik Potha</orgName>,
+							<address>
+								<settlement>Dholpur</settlement>,
+								<settlement>Rajasthan<lb/> 76.<lb/> Sangliya</settlement>,
+								<settlement>Sikar</settlement>,
+								<country>Rajasthan</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>78</marker>.
+							<lb/>
+							<orgName type="institution">Somnath S/o Prakash Singh</orgName>,
+							<address>
+								<addrLine>Aged About 26 Years</addrLine>,
+								<settlement>Odi Ka<lb/> Pura</settlement>,
+								<settlement>Dholpur</settlement>,
+								<country>Rajasthan</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>79</marker>.
+							<lb/>
+							<orgName type="institution">Subhash Chandel S/o Munni Ram</orgName>,
+							<address>
+								<addrLine>Aged About 25 Years</addrLine>,
+							<lb/>
+								<addrLine>Ward No.7</addrLine>,
+								<addrLine>3 Str</addrLine>,
+								<settlement>Gharsana</settlement>,
+								<settlement>Ganganagar</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>23</marker>
+							<address>
+								<settlement>Years</settlement>,
+								<addrLine>Nai Kothi</addrLine>,
+								<settlement>Kuntalwas</settlement>,
+								<settlement>Rahuwas</settlement>,
+								<settlement>Dausa</settlement>,
+							<lb/>
+								<region>Rajasthan</region>
+							<lb/>
+								<addrLine>About 27 Years</addrLine>,
+								<addrLine>Kalwar Road</addrLine>,
+								<settlement>Jhotwara</settlement>,
+								<settlement>Jaipur</settlement>,
+								<settlement>Rajasthan<lb/> 84.<lb/> Benipuriya</settlement>,
+								<settlement>Sirsi</settlement>,
+								<settlement>Chittorgarh</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+								<settlement>Sundani</settlement>,
+								<settlement>Banswara</settlement>,
+								<region>Rajasthan.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Vpo Phephana</orgName>,
+							<address>
+								<addrLine>1-Knn</addrLine>,
+								<settlement>Hanumangarh</settlement>,
+								<region>Rajasthan.</region>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

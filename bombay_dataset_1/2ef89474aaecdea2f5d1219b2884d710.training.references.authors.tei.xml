@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Shahapure</surname></author>
+
+						<author><surname>Dhondiram Raosaheb</surname> <forename>Pawar</forename></author>
+
+						<author><surname>Maroti Madhav</surname> <forename>Pawar</forename></author>
+
+						<author><forename>Chandrahar</forename> <surname>Vishwanath</surname> <forename>Pawar</forename></author>
+
+						<author><forename>Maroti</forename> <surname>Bhingole</surname></author>
+
+						<author><surname>Pawar</surname></author>
+
+						<author><surname>Satish Vaijinath</surname> <forename>Pawar</forename></author>
+
+						<author><forename>Venkat</forename> <surname>Vaijinath</surname> <forename>Pawar</forename></author>
+
+						<author><surname>Satish Vaijinath</surname> <forename>Pawar</forename></author>
+
+						<author><surname>Devidas Pralhad</surname> <forename>Pawar</forename></author>
+
+						<author><surname>Shahapure</surname></author>
+
+						<author><forename>Ganpat</forename> <surname>Shahapure</surname></author>
+
+						<author><forename>Raosaheb</forename> <surname>Pawar</surname></author>
+
+						<author><forename>Madhav</forename> <surname>Pawar</surname></author>
+
+						<author><surname>Narayan s/o. Maroti Bhingole</surname></author>
+
+						<author><surname>Namdeo Shivaji</surname> <forename>Pawar</forename></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

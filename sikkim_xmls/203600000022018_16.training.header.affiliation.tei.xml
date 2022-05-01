@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+ (
+						<affiliation>
+							<orgName type="institution">Sikkim University</orgName>
+							<lb/>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<lb/>
+							<orgName type="institution">The Sikkim University</orgName>,
+							<lb/>
+							<orgName type="institution">Sikkim University</orgName>,
+							<lb/>
+							<address>
+								<settlement>Tadong</settlement>,
+								<country>East Sikkim.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<lb/>
+							<orgName type="department">The Vice Chancellor</orgName>,
+							<lb/>
+							<orgName type="institution">Sikkim University</orgName>,
+							<lb/>
+							<address>
+								<settlement>Tadong</settlement>,
+								<region>East Sikkim.</region>
+							<lb/>
+							</address>
+							<orgName type="department">School of Liberal Arts and Basic Sciences</orgName>,
+							<lb/>
+							<orgName type="institution">Shri Ramsami Memorial University</orgName>,
+							<lb/>
+							<address>
+								<settlement>Amravati</settlement>,
+								<region>Neerukonda</region>,
+							<lb/>
+								<settlement>Magalore Mandol</settlement>,
+							<lb/>
+								<addrLine>Guntur District</addrLine>,
+							</address>
+							<orgName type="institution">Mongola Giri</orgName>,
+							<lb/>
+							<orgName type="institution">Andhra Pradesh-Pin Code</orgName>-
+							<address>
+								<postCode>522502.<lb/> 2</postCode>.
+							<lb/>
+							</address>
+							<orgName type="institution">The University Grant Commission (UGC)</orgName>,
+							<lb/>
+							<orgName type="department">Represented through its Secretary</orgName>,
+							<lb/>
+							<orgName type="institution">Bahadur Shah Zafar Marg</orgName>,
+							<lb/>
+							<address>
+								<settlement>New Delhi-110002.</settlement>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

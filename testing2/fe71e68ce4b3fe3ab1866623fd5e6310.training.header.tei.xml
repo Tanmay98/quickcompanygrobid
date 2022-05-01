@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="fe71e68ce4b3fe3ab1866623fd5e6310"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	-3 -<lb/>-----------------------------------------------------<lb/>
+	<note type="doctype">Date<lb/> Instrument Quantity<lb/></note>
+
+	11-09-199�
+	<byline>
+	<affiliation>Canshare<lb/> 6,</affiliation>
+	</byline>
+
+	<address>85,�0�<lb/> 26-09-1990 Canstar<lb/> 1,00,00,000<lb/></address>
+
+	<div type="abstract">Rate Aggregate<lb/> 25<lb/> 1 , &quot;71 &apos;25 t 6?if&apos;i0 10<lb/> 1 !?i ,(?i 0&apos; 00 &apos; 001Zi<lb/></div>
+
+	09-04-1992<lb/>
+	<reference>Cant rip le 1 , l?il?.I, QI�, (il!?Jl?S<lb/> 18467 18, 46, &apos;70, l?iei0<lb/></reference>
+
+	------------�----------------------------------------<lb/>
+	<div type="abstract">lt<lb/> may<lb/> be<lb/> noted here that<lb/> Cansha re,<lb/> Canstar and<lb/> Cantr iple<lb/> are instruments flo ated by Canbank Mutual<lb/> Fund .</div>
+
+		</front>
+	</text>
+</tei>

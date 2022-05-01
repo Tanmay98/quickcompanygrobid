@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="SVN09012019CW238722005"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<reference>WP(C) No. 23872/2005<lb/></reference>
+
+	Page 1 of 30<lb/>
+	<docTitle>
+	<titlePart>*<lb/> IN THE HIGH COURT OF DELHI AT NEW DELHI<lb/></titlePart>
+	</docTitle>
+
+	+<lb/>
+	<reference>Reserved on: 10 th December, 2018<lb/> Pronounced on: 9 th January, 2019<lb/> W.P.</reference>
+
+	<note type="copyright">(C) 23872/2005<lb/></note>
+
+	<byline>
+	<docAuthor>RAJVIR SINGH<lb/> ..... Petitioner<lb/></docAuthor>
+	</byline>
+
+	Through:
+	<byline>
+	<docAuthor>Mr. Chandan Kumar,</docAuthor>
+	</byline>
+
+	Advocate. versus<lb/> UOI &amp; ORS.<lb/> ..... Respondents<lb/> Through:
+	<keyword>Mr. Rajan Sabharwal, Advocate.</keyword>
+
+		</front>
+	</text>
+</tei>

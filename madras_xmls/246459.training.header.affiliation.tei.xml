@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">Metropolitan Transport Corporation (Chennai) Ltd.</orgName>,
+							<lb/>
+							<address>
+								<settlement>Pallavan House</settlement>,
+								<addrLine>Anna Salai</addrLine>,
+								<settlement>Chennai-2.</settlement>
+							<lb/>
+								<postBox>&quot;A&quot;<lb/> 180.00<lb/> + 130.00<lb/> = 310.00<lb/> &quot;B&quot;<lb/> 150.00<lb/> + 107.00<lb/> = 257.00<lb/> &quot;C&quot;<lb/> 120.00<lb/> &quot;A&quot;<lb/> 180.00<lb/> + 149.00<lb/> = 329.00<lb/> &quot;B&quot;<lb/> 150.00<lb/> + 123.00<lb/> = 273.00<lb/> &quot;C&quot;<lb/> 120.00<lb/> + 100.00<lb/> = 220.00<lb/> &quot;A&quot;<lb/> 180.00<lb/> + 152.00<lb/> = 332.00<lb/> &quot;B&quot;<lb/> 150.00<lb/> + 126.00<lb/> = 276.00<lb/> &quot;C&quot;<lb/> 120.00<lb/> &quot;A&quot;<lb/> 180.00<lb/> + 168.00<lb/> = 348.00<lb/> &quot;B&quot;<lb/> 150.00<lb/> + 140.00<lb/> = 290.00<lb/> &quot;C&quot;<lb/> 120.00<lb/> + 113.00<lb/> = 233.00<lb/> &quot;A&quot;<lb/> 180.00<lb/> + 173.00<lb/> = 353.00<lb/> &quot;B&quot;<lb/> 150.00<lb/> + 144.00<lb/> = 294.00<lb/> &quot;C&quot;<lb/> 120.00<lb/> + 116.00<lb/> = 236.00<lb/> &quot;A&quot;<lb/> 180.00<lb/> + 130.00<lb/> = 310.00<lb/> &quot;B&quot;<lb/> 150.00<lb/> + 107.00<lb/> = 257.00<lb/> &quot;C&quot;<lb/> 120.00<lb/> &quot;A&quot;<lb/> 180.00<lb/> + 149.00<lb/> = 329.00<lb/> &quot;B&quot;<lb/> 150.00<lb/> + 123.00<lb/> = 273.00<lb/> &quot;C&quot;<lb/> 120.00<lb/> + 100.00<lb/> = 220.00<lb/> &quot;A&quot;<lb/> 180.00<lb/> + 152.00<lb/> = 332.00<lb/> &quot;B&quot;<lb/> 150.00<lb/> + 126.00<lb/> = 276.00<lb/> &quot;C&quot;<lb/> 120.00<lb/> &quot;A&quot;<lb/> 180.00<lb/> + 168.00<lb/> = 348.00<lb/> &quot;B&quot;<lb/> 150.00<lb/> + 140.00<lb/> = 290.00<lb/> &quot;C&quot;<lb/> 120.00<lb/> + 113.00<lb/> = 233.00<lb/> &quot;A&quot;<lb/> 180.00<lb/> + 173.00<lb/> = 353.00<lb/> &quot;B&quot;<lb/> 150.00<lb/> + 144.00<lb/> = 294.00<lb/> &quot;C&quot;<lb/> 120.00<lb/> + 116.00<lb/> = 236.00<lb/> &quot;A&quot;<lb/> 220.00<lb/> + 142.00<lb/> = 342.00<lb/> &quot;B&quot;<lb/> 200.00<lb/> + 121.00<lb/> = 291.00<lb/> &quot;C&quot;<lb/> 170.00<lb/> + 101.00<lb/> = 241.00<lb/> &quot;A&quot;<lb/> 220.00<lb/> + 163.00<lb/> = 363.00<lb/> &quot;B&quot;<lb/> 200.00<lb/> + 139.00<lb/> = 309.00<lb/> &quot;C&quot;<lb/> 170.00<lb/> + 116.00<lb/> = 256.00<lb/> &quot;A&quot;<lb/> 220.00<lb/> + 167.00<lb/> = 367.00<lb/> &quot;B&quot;<lb/> 200.00<lb/> + 142.00<lb/> = 312.00<lb/> &quot;C&quot;<lb/> 170.00<lb/> + 119.00<lb/> = 259.00<lb/> &quot;A&quot;<lb/> 220.00<lb/> + 204.00<lb/> = 424.00<lb/> &quot;B&quot;<lb/> 200.00<lb/> + 185.00<lb/> = 385.00<lb/> &quot;C&quot;<lb/> 170.00<lb/> + 158.00<lb/> = 328.00<lb/> &quot;A&quot;<lb/> 220.00<lb/> + 190.00<lb/> = 390.00<lb/> &quot;B&quot;<lb/> 200.00<lb/> + 163.00<lb/> = 333.00<lb/> &quot;C&quot;<lb/> 170.00<lb/> + 136.00<lb/> = 276.00</postBox>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

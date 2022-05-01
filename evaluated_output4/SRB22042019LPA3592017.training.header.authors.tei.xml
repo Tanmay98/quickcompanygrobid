@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								 <forename>Mr</forename>.
+								 <middlename>Sudhir</middlename>
+								 <surname>Chandra</surname>,
+								 <roleName>Sr</roleName>.
+								 <middlename>Adv</middlename>.
+							</persName>
+							<persName>
+								 <surname>with</surname>
+								 <forename>Mr</forename>.
+							</persName>
+							<persName>
+								 <surname>Sanjay Kumar</surname>,
+								 <roleName>Ms</roleName>.
+								 <middlename>Arpita</middlename>
+							</persName>
+							<persName>
+								 <surname>Sawhney</surname> and
+								 <forename>Mr</forename>.
+							</persName>
+							<persName>
+								 <surname>Arun</surname>
+								 <forename>Kumar</forename>
+							</persName>
+							<persName>
+								 <surname>Jana</surname>,
+								 <forename>Advs</forename>.
+								 <middlename>Mr</middlename>.
+							</persName>
+							<persName>
+								 <surname>Ripu</surname>
+								 <forename>Daman</forename>
+							</persName>
+							<persName>
+								 <surname>Bhardwaj</surname>,
+								 <roleName>CGSC with Mr</roleName>.
+								 <middlename>T</middlename>.
+								<middlename>P</middlename>.
+							</persName>
+							<persName>
+								 <surname>Singh</surname> and
+								 <forename>Mr</forename>.
+								 <middlename>Shashwat</middlename>
+							</persName>
+							<persName>
+								 <surname>Jain</surname>,
+								 <forename>Advs</forename>. for R-
+								<marker>1 &amp; 6</marker>.
+								 <middlename>Ms</middlename>.
+							</persName>
+							<persName>
+								 <surname>Rajeshwari</surname>,
+								 <forename>Adv</forename>.
+							</persName>
+							<persName>
+								 <surname>for R-</surname>
+								<marker>2 &amp; 5</marker>.
+							</persName>
+							<persName>
+								 <surname>Ms</surname>.
+							</persName>
+							<persName>
+								 <surname>Saya</surname>
+								 <forename>Choudhary</forename>
+							</persName>
+							<persName>
+								 <surname>Kapur</surname>,
+								 <forename>Mr</forename>.
+								 <middlename>Vivek</middlename>
+							</persName>
+							<persName>
+								 <surname>Ranjan</surname> and
+								 <forename>Mr</forename>.
+								 <middlename>Devanshu</middlename>
+							</persName>
+							<persName>
+								 <surname>Khanna</surname>,
+								 <roleName>Mr</roleName>.
+							</persName>
+							<persName>
+								 <surname>Guru</surname>
+								 <forename>Krishna</forename>
+							</persName>
+							<persName>
+								 <surname>Kumar</surname>,
+								 <roleName>Sr. Advocate with Mr</roleName>.
+								 <middlename>Pravin</middlename>
+							</persName>
+							<persName>
+								 <surname>Anand</surname>,
+								 <forename>Mr</forename>.
+								 <middlename>Nishchal</middlename>
+							</persName>
+							<persName>
+								 <surname>Anand</surname> and
+								 <forename>Mr</forename>.
+							</persName>
+							<persName>
+								 <surname>Sanchith Shivakumar</surname>,
+								 <roleName>Advs. Ms</roleName>.
+							</persName>
+							<persName>
+								 <surname>Saya</surname>
+								 <forename>Choudhary</forename>
+							</persName>
+							<persName>
+								 <surname>Kapur</surname>,
+								 <forename>Mr</forename>.
+								 <middlename>Vivek</middlename>
+							</persName>
+							<persName>
+								 <surname>Ranjan</surname> and
+								 <forename>Mr</forename>.
+								 <middlename>Devanshu</middlename>
+							</persName>
+							<persName>
+								 <surname>Khanna</surname>,
+								 <forename>Advs</forename>.
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

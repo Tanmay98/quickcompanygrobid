@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">Joybells School Authority</orgName>,
+							<lb/>
+							<address>
+								<settlement>Chairman</settlement>,
+							</address>
+							<orgName type="department">Joy Bells School</orgName>,
+							<lb/>
+							<orgName type="institution">Near Khangri Petrol Pump</orgName>,
+							<lb/>
+							<address>
+								<settlement>Tadong</settlement>,
+								<region>East Sikkim.</region>
+							<lb/>
+							</address>
+							<orgName type="department">R/o Syari</orgName>,
+							<address>
+								<settlement>Gangtok</settlement>,
+								<region>East Sikkim.</region>
+							<lb/>
+							</address>
+							<orgName type="department">Principal of Joy Bells School</orgName>,
+							<lb/>
+							<orgName type="institution">Near Khangri Petrol Pump</orgName>,
+							<lb/>
+							<address>
+								<settlement>Tadong</settlement>,
+								<settlement>Gangtok</settlement>,
+								<region>East Sikkim.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Nam-Nang</orgName>,
+							<address>
+								<settlement>Gangtok</settlement>,
+								<region>East Sikkim.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Nam-Nang</orgName>,
+							<address>
+								<settlement>Gangtok</settlement>,
+								<region>East Sikkim.</region>
+							<lb/>
+							</address>
+							<orgName type="department">R/o Syari</orgName>,
+							<address>
+								<settlement>Gangtok</settlement>,
+								<region>East Sikkim.</region>
+							<lb/>
+							</address>
+							<orgName type="department">Principal of Joy Bells School</orgName>,
+							<lb/>
+							<orgName type="institution">Near Khangri Petrol Pump</orgName>,
+							<lb/>
+							<address>
+								<settlement>Tadong</settlement>,
+								<settlement>Gangtok</settlement>,
+								<country>East Sikkim.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<orgName type="institution">Joybells School Authority</orgName>,
+							<lb/>
+							<address>
+								<settlement>Chairman</settlement>,
+							</address>
+							<orgName type="department">Joy Bells School</orgName>,
+							<lb/>
+							<orgName type="institution">Near Khangri Petrol Pump</orgName>,
+							<lb/>
+							<address>
+								<settlement>Tadong</settlement>,
+								<region>East Sikkim.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Nam-Nang</orgName>,
+							<address>
+								<settlement>Gangtok</settlement>,
+								<region>East Sikkim.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Nam-Nang</orgName>,
+							<address>
+								<settlement>Gangtok</settlement>,
+								<region>East Sikkim.</region>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

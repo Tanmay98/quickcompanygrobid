@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								 <surname>CHANDRA</surname>
+								 <roleName>SHARMA ..... Appellant Mr</roleName>.
+								 <middlename>Randhir</middlename>
+							</persName>
+							<persName>
+								 <surname>Singh</surname> and
+								 <forename>Mr</forename>.
+								 <middlename>S</middlename>.
+								<middlename>K</middlename>.
+							</persName>
+							<persName>
+								 <surname>Gupta</surname>,
+								 <roleName>Mr</roleName>.
+								 <middlename>Manee</middlename>
+							</persName>
+							<persName>
+								 <surname>Mridul</surname>,
+								 <forename>Mr</forename>.
+								 <middlename>Achintya</middlename>
+							</persName>
+							<persName>
+								 <surname>Dvivedi</surname> and
+								 <forename>Mr</forename>.
+								 <middlename>B</middlename>.
+								<middlename>P</middlename>.
+							</persName>
+							<persName>
+								 <surname>Pandey</surname>,
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

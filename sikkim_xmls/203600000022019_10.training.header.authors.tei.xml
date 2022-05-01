@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								 <roleName>President, Mr</roleName>.
+								 <surname>Karma</surname>
+								 <forename>Gyatso</forename>
+							</persName>
+							<persName>
+								 <surname>Bhutia</surname>,
+								 <marker>S/o</marker>
+								 <forename>Mr</forename>.
+							</persName>
+							<persName>
+								 <surname>Karma</surname>
+								 <forename>Sonam</forename>
+							</persName>
+							<persName>
+								 <surname>Bhutia</surname>,
+								 <roleName>Justice Empowerment</roleName> and Welfare Department,
+								 <forename>Samaj</forename>
+							</persName>
+							<persName>
+								 <surname>Kalyan</surname>
+								 <forename>Bhawan-Bal</forename>
+							</persName>
+							<persName>
+								 <surname>Bhawan</surname>,
+							</persName>
+							<persName>
+								 <surname>Lumsay</surname>,
+								 <marker>5</marker> th
+								 <forename>Mile</forename>
+							</persName>
+							<persName>
+								 <surname>Tadong</surname>,
+							</persName>
+							<persName>
+								 <surname>Gangtok</surname>,
+								 <marker>6</marker>.
+							</persName>
+							<persName>
+								 <surname>Secretary</surname>,
+								 <forename>Shastri</forename>
+							</persName>
+							<persName>
+								 <surname>Bhawan</surname>,
+								 <roleName>Dr</roleName>.
+								 <forename>Rajendra</forename>
+								 <middlename>Prasad</middlename>
+							</persName>
+							<persName>
+								 <surname>Road</surname>,
+								 <marker>11</marker>.
+							</persName>
+							<persName>
+								 <surname>Secretary</surname>,
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

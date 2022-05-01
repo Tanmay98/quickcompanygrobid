@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<marker>2</marker>.
+							<orgName type="institution">Apollo Hospitals</orgName>,
+							<address>
+								<addrLine>Jubilee Hills Road<lb/> Banjara Hills</addrLine>,
+								<postBox>Hyderabad 500 033.<lb/> 3</postBox>.
+							</address>
+							<orgName type="institution">Apollo Hospitals Enterprise Limited<lb/> Ali Towers</orgName>,
+							<orgName type="institution">IV Floor</orgName>,
+							<address>
+								<addrLine>55, Greams Road<lb/> Chennai 600 006.<lb/> 4</addrLine>.
+							</address>
+							<orgName type="institution">Cancer Institute (W.I.A) (Regional<lb/> Cancer Centre)</orgName>,
+							<address>
+								<addrLine>Canal Bank Road<lb/> Gandhi Nagar</addrLine>,
+								<settlement>Adyar</settlement>,
+								<region>Chennai</region>
+								<postCode>600 020</postCode>.
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

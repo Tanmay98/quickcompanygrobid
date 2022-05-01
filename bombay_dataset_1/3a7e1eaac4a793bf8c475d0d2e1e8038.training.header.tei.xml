@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="3a7e1eaac4a793bf8c475d0d2e1e8038"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<docTitle>
+	<titlePart>2. Dinesh s/o Gopichand Gupta,<lb/> Proprietor of M/s. Dinesh Associates,<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>R/o D-145, &quot;Priyadarshini Vihar&quot;,<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>Opp. Lovely Public School,<lb/></affiliation>
+	</byline>
+
+	<address>Shahadara, Delhi.<lb/></address>
+
+	...Respondent/ Accused<lb/> Criminal Application No.2428 of 2008<lb/>
+	<reference>Criminal Appeal Nos.390, 391, 392, 393 and 399 of 2008</reference>
+
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<marker>1</marker>.
+							<orgName type="institution">State Of Rajasthan through the Secretary</orgName>,
+							<orgName type="department">Department of<lb/> Medical &amp; Health</orgName>,
+							<address>
+								<settlement>Secretariat</settlement>,
+								<country>Jaipur.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<orgName type="institution">Additional Director (Administration), Medical &amp; health<lb/> Services</orgName>,
+							<address>
+								<addrLine>Tilak Marg, jaipur.<lb/> 3</addrLine>.
+							</address>
+							<orgName type="institution">Chief Medical &amp; Health Officer</orgName>,
+							<address>
+								<settlement>Ratangarh</settlement>,
+								<addrLine>District Churu.<lb/> 4</addrLine>.
+							</address>
+							<orgName type="institution">Block Chief Medical &amp; Health Officer</orgName>,
+							<address>
+								<settlement>Rajgarh</settlement>,
+							</address>
+							<orgName type="department">District Churu.<lb/> 5. Principal Secretary</orgName>,
+							<orgName type="department">Department of Rural Development and<lb/> Panchayati Raj.</orgName>,
+							<address>
+								<settlement>Rajasthan</settlement>,
+								<region>Jaipur.</region>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

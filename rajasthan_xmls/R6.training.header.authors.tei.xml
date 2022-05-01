@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								 <forename>Ram</forename>
+								 <surname>Gopal</surname>
+							</persName>
+							<persName>
+								 <forename>Jaga</forename>
+								 <marker>S/o</marker>
+							</persName>
+							<persName>
+								 <forename>Shri</forename>
+								 <surname>Kalyan</surname>
+							</persName>
+							<persName>
+								 <forename>Prasad</forename>
+								 <surname>Jaga</surname>, C/o-
+							</persName>
+							<persName>
+								<forename>Rajendra</forename>
+								 <surname>Singh</surname>
+								 <marker>S/o</marker>
+							</persName>
+							<persName>
+								 <forename>Shri</forename>
+								 <surname>Vidhyadhar</surname>
+							</persName>
+							<persName>
+								 <forename>Singh</forename>
+								 <surname>Balotia</surname>,
+							</persName>
+							<persName>
+								 <forename>Karni</forename>
+								 <surname>Shyam</surname>
+							</persName>
+							<persName>
+								 <forename>Sundar</forename>
+								 <surname>Sharma</surname>
+								 <marker>S/o</marker>
+							</persName>
+							<persName>
+								 <surname>Shree</surname>
+								 <forename>Radheyshyam</forename>
+							</persName>
+							<persName>
+								 <surname>Sharma</surname>,
+								 <forename>Caste</forename>
+							</persName>
+							<persName>
+								 <surname>Brahmin</surname>,
+								 <forename>Santosh</forename>
+							</persName>
+							<persName>
+								 <surname>Kumar</surname>
+								 <marker>S/o</marker>
+								 <forename>Devi</forename>
+							</persName>
+							<persName>
+								 <surname>Lal</surname>,
+								 <forename>Mr</forename>.
+								 <middlename>K</middlename>.
+								<middlename>K</middlename>.
+							</persName>
+							<persName>
+								 <surname>Bissa</surname>,
+								 <forename>GC</forename>
+								 <middlename>Mr</middlename>.
+							</persName>
+							<persName>
+								 <surname>Sukesh Bhati</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

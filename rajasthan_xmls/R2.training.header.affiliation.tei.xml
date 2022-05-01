@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">Rajasthan Marudhara Gramin Bank Jodhpur</orgName>,
+							<orgName type="department">Through Its<lb/> Chairman</orgName>,
+							<orgName type="department">Head Office Tulsi Tower</orgName>,
+							<address>
+								<addrLine>9Th B Road</addrLine>,
+								<settlement>Sardarpura</settlement>,
+							<lb/>
+								<region>Jodhpur.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<lb/>
+							<orgName type="laboratory">Controlling Authority Under Payment Of Gratuity Act</orgName>,
+							<lb/>
+							<address>
+								<postCode>1972</postCode>,
+							<lb/>
+							</address>
+							<orgName type="department">Through General Secretary</orgName>,
+							<orgName type="institution">Gramin Bank, Pensioners<lb/> Samity</orgName>,
+							<address>
+								<postCode>248</postCode>,
+								<addrLine>Jay Nagar</addrLine>,
+								<addrLine>Ramdev Road</addrLine>,
+								<settlement>Pali</settlement>
+							<lb/>
+							</address>
+							<orgName type="department">Through Its Chairman</orgName>,
+							<address>
+								<addrLine>Head<lb/> Office</addrLine>,
+							</address>
+							<orgName type="institution">Tulsi Tower</orgName>,
+							<address>
+								<addrLine>9Th B Road</addrLine>,
+								<settlement>Sardarpura</settlement>,
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan</region>
+							<lb/>
+								<postCode>342003.</postCode>
+							<lb/>
+							</address>
+							<orgName type="institution">Rajasthan Marudhara Gramin Bank</orgName>,
+							<orgName type="department">Through Its Chairman</orgName>,
+							<address>
+								<addrLine>Head<lb/> Office</addrLine>,
+							</address>
+							<orgName type="institution">Tulsi Tower</orgName>,
+							<address>
+								<addrLine>9Th &apos;b&apos; Road</addrLine>,
+								<settlement>Sardarpura</settlement>,
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan</region>
+							<lb/>
+								<postCode>342003.</postCode>
+							<lb/>
+							</address>
+							<orgName type="institution">Rajasthan Marudhara Gramin Bank</orgName>,
+							<orgName type="department">Through Its Chairman</orgName>,
+							<address>
+								<addrLine>Head<lb/> Office</addrLine>,
+							</address>
+							<orgName type="institution">Tulsi Tower</orgName>,
+							<address>
+								<addrLine>9Th B Road</addrLine>,
+								<settlement>Sardarpura</settlement>,
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan</region>
+							<lb/>
+								<postCode>342003.</postCode>
+							<lb/>
+							</address>
+							<orgName type="department">Through General<lb/> Secretary</orgName>,
+							<orgName type="institution">Gramin Bank Pensioners Samity</orgName>,
+							<address>
+								<postCode>248</postCode>,
+								<addrLine>Jay Nagar</addrLine>,
+							<lb/>
+								<addrLine>Ramdev Road</addrLine>,
+								<settlement>Pali</settlement>
+							<lb/>
+							</address>
+							<orgName type="institution">Rajasthan Marudhara Gramin Bank</orgName>,
+							<orgName type="department">Through Its Chairman</orgName>,
+							<address>
+								<addrLine>Head<lb/> Office</addrLine>,
+							</address>
+							<orgName type="institution">Tulsi Tower</orgName>,
+							<address>
+								<addrLine>9Th B Road</addrLine>,
+								<settlement>Sardarpura</settlement>,
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan</region>
+							<lb/>
+								<postCode>342003.</postCode>
+							<lb/>
+							</address>
+							<orgName type="institution">Rajendra Singh Rathore</orgName>,
+							<orgName type="department">Through General Secretary</orgName>,
+							<orgName type="institution">Gramin<lb/> Bank Pensioners Samity</orgName>,
+							<address>
+								<postCode>248</postCode>,
+								<addrLine>Jay Nagar</addrLine>,
+								<addrLine>Ramdev Road</addrLine>,
+								<settlement>Pali</settlement>
+							<lb/>
+							</address>
+							<orgName type="institution">Rajasthan Marudhara Gramin Bank</orgName>,
+							<orgName type="department">Through Its Chairman</orgName>,
+							<address>
+								<addrLine>Head<lb/> Office</addrLine>,
+							</address>
+							<orgName type="institution">Tulsi Tower</orgName>,
+							<address>
+								<addrLine>9Th B Road</addrLine>,
+								<settlement>Sardarpura</settlement>,
+								<settlement>Jodhpur</settlement>,
+								<settlement>Rajasthan</settlement>,
+							<lb/>
+								<postCode>342003.</postCode>
+							<lb/>
+							</address>
+							<orgName type="institution">Rajasthan Marudhara Gramin Bank</orgName>,
+							<orgName type="department">Through Its Chairman</orgName>,
+							<address>
+								<addrLine>Head<lb/> Office</addrLine>,
+							</address>
+							<orgName type="institution">Tulsi Tower</orgName>,
+							<address>
+								<addrLine>9Th &apos;b&apos; Road</addrLine>,
+								<settlement>Sardarpura</settlement>,
+								<settlement>Jodhpur</settlement>,
+								<region>Rajasthan</region>
+							<lb/>
+								<postCode>342003.</postCode>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

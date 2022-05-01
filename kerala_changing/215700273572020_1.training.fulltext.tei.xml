@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="0" />
+	</teiHeader>
+	<text xml:lang="en">
+		<head>
+			JUDGMENT
+			<lb />
+		</head>
+		<p>
+			The petitioner states that the 1st respondent has passed an
+			<lb />
+			order and it is submitted that the said order is being challenged in
+			<lb />
+			independent proceedings. He seeks permission to withdraw this
+			<lb />
+			petition with liberty to exhaust his legal remedies. Reserving such
+			<lb />
+			right, this writ petition is dismissed as withdrawn.
+			<lb />
+		</p>
+
+		<p>
+			Sd/-
+			<lb />
+			RAJA VIJAYARAGHAVAN V
+			<lb />
+			sru
+			<lb />
+			JUDGE
+		</p>
+
+
+	</text>
+</tei>

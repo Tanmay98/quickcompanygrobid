@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">CTRlAL OF OFFENCES RELATlNG TO<lb/> SECURfTlESJ AGT</orgName>,
+							<address>
+								<postCode>1992</postCode>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>,
+							<lb/>
+							<address>
+								<settlement>Mumbai -400 078.</settlement>
+							<lb/>
+							</address>
+							<orgName type="institution">Atul Manubhai Parikh</orgName>,
+							<lb/>
+							<address>
+								<postCode>70516</postCode>,
+							<lb/>
+								<addrLine>Pra.bhu<lb/> Apa.r tmen ts</addrLine>,
+							<lb/>
+							</address>
+							<orgName type="institution">Near<lb/> Rajawadi Hospital</orgName>,
+							<lb/>
+							<address>
+								<addrLine>Ghatkopar<lb/> CEJ</addrLine>,
+								<postCode>Mumbai -400 077</postCode>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>•</marker>
+							<orgName type="department">Giriraj•</orgName>,
+							<address>
+								<addrLine>Rajawadi Road No.7</addrLine>,
+							<lb/>
+								<addrLine>Ghatkopar CEJ</addrLine>,
+								<addrLine>Bombay-400 077.</addrLine>
+							<lb/>
+								<settlement>Worli</settlement>,
+								<postCode>Bombay -400 018</postCode>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>,
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

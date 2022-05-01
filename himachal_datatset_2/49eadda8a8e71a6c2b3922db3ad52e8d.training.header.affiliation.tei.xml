@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="department">R/O ADHUNIK VIHAR</orgName>,
+							<orgName type="institution">MAMOON</orgName>,
+							<lb/>
+							<orgName type="institution">PATHANKOT</orgName>,
+							<orgName type="department">DISTRICT PATHANKOT</orgName>,
+							<orgName type="institution">PUNJAB</orgName>,
+							<lb/>
+							<orgName type="department">AT PRESENT BLOCK DEVELOPMENT OFFICER</orgName>,
+							<lb/>
+							<orgName type="department">DEVELOPMENT BLOCK NAGROTA SURIAN</orgName>,
+							<lb/>
+							<orgName type="department">DISTRICT KANGRA</orgName>,
+							<orgName type="institution">HIMACHAL PRADESH</orgName>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

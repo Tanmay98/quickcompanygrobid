@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								 <forename>Deo</forename>
+								 <surname>Kumar</surname> Rai …
+							</persName>
+							<persName>
+								 <forename>Appellant</forename>.
+								 <surname>Mr</surname>.
+								 <middlename>S</middlename>.
+								<middlename>K</middlename>
+							</persName>
+							<persName>
+								 <surname>Chettri</surname> and
+								 <forename>Mr</forename>.
+								 <middlename>D</middlename>.
+								 <middlename>K</middlename>.
+							</persName>
+							<persName>
+								 <surname>Siwakoti</surname>,
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

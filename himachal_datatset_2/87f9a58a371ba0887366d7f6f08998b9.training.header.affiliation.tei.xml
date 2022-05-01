@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<marker>1</marker>
+							<lb/>
+							<orgName type="laboratory">IN THE HIGH COURT OF HIMACHAL PRADESH AT SHIMLA</orgName>
+							<lb/>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<orgName type="institution">SHRI SAT PAL SAINI</orgName>,
+							<address>
+								<region>S/</region>
+								<country>O SHRI</country>
+							<lb/>
+							</address>
+							<orgName type="institution">MOTI RAM ALIAS UPINDER LAL</orgName>,
+							<lb/>
+							<orgName type="department">R/O SIDHUWAL LODGE</orgName>,
+							<orgName type="institution">THE<lb/> RIDGE</orgName>,
+							<orgName type="institution">SHIMLA</orgName>,
+							<address>
+								<country>H.P.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<orgName type="institution">SHRI ASHOK KUMAR</orgName>,
+							<address>
+								<region>S/</region>
+								<country>O SHRI</country>
+							<lb/>
+							</address>
+							<orgName type="institution">MOTI RAM ALIAS UPINDER LAL</orgName>,
+							<lb/>
+							<orgName type="institution">R/O MOHALL GHUMARAWALA</orgName>,
+							<lb/>
+							<orgName type="institution">SANTOKHGARH</orgName>,
+							<lb/>
+							<orgName type="institution">TEHSIL &amp; DISTRICT UNA</orgName>,
+							<address>
+								<region>H.P.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<orgName type="institution">SHRI SAT PAL SAINI</orgName>,
+							<address>
+								<region>S/</region>
+								<country>O SHRI</country>
+							<lb/>
+							</address>
+							<orgName type="institution">MOTI RAM ALIAS UPINDER LAL</orgName>,
+							<lb/>
+							<orgName type="department">R/O SIDHUWAL LODGE</orgName>,
+							<orgName type="institution">THE<lb/> RIDGE</orgName>,
+							<orgName type="institution">SHIMLA</orgName>,
+							<address>
+								<region>H.P.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<orgName type="institution">ASHOK KUMAR</orgName>,
+							<orgName type="institution">SON OF MOTI<lb/> RAM ALIAS UPINDER LAL</orgName>,
+							<lb/>
+							<orgName type="institution">RESIDENT OF MOHALLA<lb/> GHUMARAWALA</orgName>,
+							<lb/>
+							<orgName type="institution">SANTOSHGARH</orgName>,
+							<orgName type="institution">TEHSIL AND<lb/> DISTRICT UNA</orgName>,
+							<address>
+								<region>H.P.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">Hon&apos;ble Ms. Justice Jyotsna Rewal Dua</orgName>,
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

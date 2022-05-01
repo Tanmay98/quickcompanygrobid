@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="department">IN THE HIGH COURT OF JUDICATURE AT BOMBAY<lb/> NAGPUR BENCH</orgName>,
+							<orgName type="department">NAGPUR.<lb/> WRIT PETITION NO</orgName>.
+							<address>
+								<addrLine>934/94</addrLine>,
+								<addrLine>967/92</addrLine>,
+								<postCode>1179/93</postCode>,
+								<postCode>3085/93</postCode>,
+								<postCode>1784/92</postCode>,
+							<lb/>
+								<postCode>1034/95</postCode>,
+								<postCode>1512/2000</postCode>,
+								<postCode>1136/93</postCode>,
+								<postCode>2322/92</postCode>,
+								<addrLine>822/99</addrLine>,
+								<postCode>1070/2000</postCode> &amp;
+							<lb/>
+								<postCode>5145/07</postCode>.
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<orgName type="institution">The State of Maharashtra</orgName>,
+							<orgName type="department">through its<lb/> Secretary</orgName>,
+							<orgName type="department">Department of Urban<lb/> Land Development</orgName>,
+							<address>
+								<addrLine>Mantralaya Annexe</addrLine>,
+							<lb/>
+								<settlement>Bombay-32,<lb/> 3.</settlement>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<orgName type="institution">Bhartiya Adim Jati Sewak Sangh</orgName>,
+							<lb/>
+							<orgName type="department">through Secretary Shri M.N.More</orgName>,
+							<lb/>
+							<orgName type="institution">Yogabhyasi Mandal</orgName>,
+							<address>
+								<settlement>Ramnagar</settlement>,
+								<addrLine>Nagpur-10.<lb/> 3</addrLine>.
+							</address>
+							<orgName type="institution">National Centre for Rural Development,<lb/> through Managing Director Shri Ram Kale</orgName>,
+							<address>
+								<addrLine>253<lb/> Shivaji Nagar</addrLine>,
+								<settlement>Nagpur-10.</settlement>
+							<lb/>
+							</address>
+							<orgName type="department">29-Dharampeth Layout</orgName>,
+							<orgName type="department">Deendayal Nagar</orgName>,
+							<lb/>
+							<address>
+								<settlement>Nagpur-22.</settlement>
+							<lb/>
+							</address>
+							<orgName type="institution">Gawande Colony</orgName>,
+							<orgName type="institution">Chhatrapati Nagar</orgName>,
+							<lb/>
+							<address>
+								<settlement>Nagpur</settlement>.
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>5</marker>
+							<lb/>
+							<orgName type="department">Pendse Layout</orgName>,
+							<address>
+								<addrLine>Wardha Road</addrLine>,
+								<country>Nagpur.</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>.
+							<orgName type="institution">Narayanrao Jagobaji Gawande Public<lb/> Trust</orgName>,
+							<orgName type="department">through its Secretary</orgName>,
+							<orgName type="institution">Shri Madhukar<lb/> Pandurang Gawande</orgName>, r/o
+							<address>
+								<settlement>Gayatri Nagar</settlement>,
+							<lb/>
+								<addrLine>South Ambazari Road</addrLine>,
+								<region>Nagpur.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>.
+							<orgName type="institution">State of Maharashtra</orgName>,
+							<orgName type="department">through its<lb/> Secretary</orgName>,
+							<orgName type="institution">Urban Development</orgName>,
+							<lb/>
+							<address>
+								<settlement>Mantralaya</settlement>,
+								<addrLine>Bombay-32.<lb/> 2</addrLine>.
+							</address>
+							<orgName type="institution">Nagpur Improvement Trust</orgName>,
+							<lb/>
+							<orgName type="department">through its Chairman</orgName>,
+							<address>
+								<addrLine>Station Road</addrLine>,
+							<lb/>
+								<settlement>Sadar</settlement>,
+								<region>Nagpur</region>.
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>.
+							<orgName type="institution">Santaji Mahavidyalaya through its<lb/> Chairman Govindrao Wanjari</orgName>,
+							<lb/>
+							<address>
+								<addrLine>Wardha Road</addrLine>,
+								<addrLine>Nagpur.<lb/> 4</addrLine>.
+							</address>
+							<orgName type="institution">Shri Govindrao Wanjari</orgName>,
+							<lb/>
+							<address>
+								<settlement>President</settlement>,
+								<addrLine>Santaji Mahavidyalaya</addrLine>,
+							<lb/>
+								<addrLine>Wardha Road</addrLine>,
+								<region>Nagpur.</region>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>.
+							<orgName type="institution">The State of Maharashtra</orgName>,
+							<lb/>
+							<orgName type="department">through its Secretary</orgName>,
+							<orgName type="department">Department of Union<lb/> Land Development</orgName>,
+							<address>
+								<settlement>Mantralaya</settlement>,
+								<settlement>Annexe</settlement>,
+							<lb/>
+								<region>Mumbai</region>
+								<postCode>400032.</postCode>
+							<lb/>
+							</address>
+							<orgName type="institution">Gajanan Nagar</orgName>,
+							<address>
+								<addrLine>Wardha Road</addrLine>,
+								<region>Nagpur.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">C/o Anant Gupta Bhandar</orgName>,
+							<orgName type="institution">Nalsaheb Chowk</orgName>,
+							<lb/>
+							<address>
+								<addrLine>Bhandara Road</addrLine>,
+								<settlement>Nagpur</settlement>
+							<lb/>
+							</address>
+							<orgName type="department">Department of Urban Land<lb/> Development</orgName>,
+							<address>
+								<settlement>Mantralaya</settlement>,
+							<lb/>
+								<settlement>Annexe</settlement>,
+								<settlement>Mumbai-32.</settlement>
+							<lb/>
+							</address>
+							<orgName type="department">Hostel for Women</orgName>,
+							<orgName type="institution">South Indian<lb/> Educational Society</orgName>,
+							<orgName type="department">Deaf and Dumb&apos;s School</orgName>,
+							<orgName type="department">Indian Medical<lb/> Association</orgName>,
+							<orgName type="department">Institutions like Nagrik Sahakari Rugnalaya</orgName>,
+							<address>
+								<settlement>Kusumtai</settlement>
+							<lb/>
+							</address>
+							<orgName type="institution">Chaitanya International Hospital, L.A.D.<lb/> College</orgName>,
+							<orgName type="institution">Vidarbha Bridge Association</orgName>,
+							<address>
+								<settlement>Kalakunj</settlement>,
+								<region>Yogabhayasi Mandal</region>,
+							<lb/>
+							</address>
+							<orgName type="institution">Nagendra Digambar Jain Samaj</orgName>,
+							<orgName type="institution">Khaire Kumbhi Samaj</orgName>,
+							<orgName type="institution">Sewadal<lb/> Education Society</orgName>,
+							<orgName type="institution">Shri Sant Tukaram Gyan Mandir</orgName>,
+							<orgName type="institution">Nagpur Houses of</orgName>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

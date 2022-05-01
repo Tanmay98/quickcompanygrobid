@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.grobid</groupId>
+  <artifactId>grobid-core</artifactId>
+  <version>0.7.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20220204062307</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>onejar</classifier>
+        <extension>jar</extension>
+        <value>0.7.1-SNAPSHOT</value>
+        <updated>20220204062307</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.7.1-SNAPSHOT</value>
+        <updated>20220204062307</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>0.7.1-SNAPSHOT</value>
+        <updated>20220204062307</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.7.1-SNAPSHOT</value>
+        <updated>20220204062307</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

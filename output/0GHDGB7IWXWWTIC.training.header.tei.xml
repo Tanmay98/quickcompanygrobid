@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="0GHDGB7IWXWWTIC"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	#58<lb/>
+	<docTitle>
+	<titlePart>IN THE HIGH COURT OF DELHI AT NEW DELHI<lb/> Judgment delivered on: 06.08.2018<lb/> W.P.(C) 8137/2018<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>RAMESH HALDAR<lb/> ..... Petitioner</docAuthor>
+	</byline>
+
+	versus<lb/> EAST DELHI MUNICIPAL CORPORATION ..... Respondent<lb/> Advocates who appeared in this case:<lb/> For the Petitioner<lb/> :
+	<byline>
+	<docAuthor>Mr. Prashant Sharma and Mr. Amit Kumar Verma, Advocates<lb/></docAuthor>
+	</byline>
+
+	For the Respondent<lb/> :
+	<byline>
+	<docAuthor>Mr. G.D. Mishra, Advocate</docAuthor>
+	</byline>
+
+		</front>
+	</text>
+</tei>

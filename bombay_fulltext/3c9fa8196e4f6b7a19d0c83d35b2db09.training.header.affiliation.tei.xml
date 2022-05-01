@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="laboratory">ANSARI<lb/> IN THE HIGH COURT OF JUDICATURE AT BOMBAY</orgName>,
+							<lb/>
+							<orgName type="institution">NAGPUR BENCH</orgName>,
+							<address>
+								<region>NAGPUR.</region>
+							<lb/>
+							</address>
+							<orgName type="institution">PO Krishinagar</orgName>,
+							<address>
+								<settlement>Akola</settlement>,
+							<lb/>
+								<country>Through its Registrar</country>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>]
+							<lb/>
+							<orgName type="institution">Vice Chancellor</orgName>,,
+							<lb/>
+							<address>
+								<addrLine>Dr. Panjabrao Deshmukh Krishi Vidyapeeth</addrLine>,
+							<lb/>
+								<postBox>PO. Krishinagar</postBox>,
+								<addrLine>Akola 444 104<lb/> 3]<lb/> State of Maharashtra</addrLine>,
+							<lb/>
+							</address>
+							<orgName type="department">through its Secretary</orgName>,
+							<lb/>
+							<orgName type="department">Department of Agricultural, Animal Husbandry,<lb/> Dairy Development and Fisheries</orgName>,
+							<address>
+								<settlement>Mantralaya</settlement>,
+							<lb/>
+								<addrLine>Mumbai -400 032</addrLine>,
+								<settlement>Maharashtra</settlement>
+							<lb/>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>4</marker>]
+							<lb/>
+							<orgName type="institution">Maharashtra Agricultural Universities Recruitment Board</orgName>,
+							<lb/>
+							<address>
+								<settlement>Pune</settlement>,
+							</address>
+							<orgName type="institution">Maharashtra<lb/> Council for Agricultural Research</orgName>,
+							<orgName type="department">through<lb/> its Chairman</orgName>,
+							<address>
+								<postCode>132-B</postCode>,
+							</address>
+							<orgName type="institution">Bhamburda Bhosale Nagar</orgName>,
+							<lb/>
+							<address>
+								<addrLine>Pune -7</addrLine>,
+								<settlement>Maharashtra</settlement>
+							<lb/>
+							</address>
+							<orgName type="department">R/o. Datta Colony</orgName>,
+							<orgName type="institution">Trimurti Nagar,<lb/> behind Gorakshan Sawanthan</orgName>,
+							<lb/>
+							<address>
+								<addrLine>181-7/8</addrLine>,
+								<settlement>Akola<lb/> 8]<lb/> Keshao Nagar</settlement>,
+								<addrLine>Akola<lb/> 9]<lb/> Dr</addrLine>.
+							</address>
+							<orgName type="institution">Sanjay Uttamrao Kakade</orgName>,
+							<lb/>
+							<orgName type="department">Office of Associate Dean</orgName>,
+							<orgName type="department">College of Agriculture</orgName>,
+							<lb/>
+							<address>
+								<settlement>Maharajbag</settlement>,
+								<settlement>Nagpur</settlement>,
+								<addrLine>Maharashtra<lb/> 11] Dr. Sachin N. Potkile</addrLine>,
+							<lb/>
+							</address>
+							<orgName type="department">Occ. Service</orgName>,
+							<lb/>
+							<orgName type="institution">Office of Associate Dean</orgName>,
+							<orgName type="department">College of Agriculture</orgName>,
+							<lb/>
+							<address>
+								<settlement>Maharajbag</settlement>,
+								<settlement>Nagpur</settlement>,
+								<region>Maharashtra</region>
+							<lb/>
+							</address>
+							<orgName type="department">Occ. Service</orgName>,
+							<lb/>
+							<orgName type="institution">Office of Associate Dean</orgName>,
+							<orgName type="department">College of Agriculture</orgName>,
+							<lb/>
+							<address>
+								<settlement>Krishinagar</settlement>,
+								<settlement>Akola</settlement>,
+								<addrLine>Maharashtra<lb/> 13] Dr. Vikas V. Goud</addrLine>,
+							<lb/>
+							</address>
+							<orgName type="department">Occ. Service</orgName>,
+							<lb/>
+							<orgName type="institution">Officer Incharge, Agriculture Research Station</orgName>,
+							<lb/>
+							<address>
+								<settlement>Washim</settlement>,
+								<settlement>Dist. Washim</settlement>,
+								<settlement>Maharashtra</settlement>
+							<lb/>
+							</address>
+							<orgName type="department">Occ. Service</orgName>,
+							<lb/>
+							<orgName type="department">Office of Director of Extension Education</orgName>,
+							<lb/>
+							<address>
+								<addrLine>Dr. Panjabrao Deshmukh Krishi Vidyapeeth</addrLine>,
+							<lb/>
+							</address>
+							<orgName type="institution">Krushi Nagar</orgName>,
+							<address>
+								<settlement>Akola</settlement>,
+								<region>Maharashtra</region>
+							<lb/>
+							</address>
+							<orgName type="department">Occ. Service</orgName>,
+							<lb/>
+							<orgName type="institution">Office of Associate Dean</orgName>,
+							<orgName type="department">College of Agriculture</orgName>,
+							<lb/>
+							<address>
+								<settlement>Maharajbag</settlement>,
+								<settlement>Nagpur</settlement>,
+								<addrLine>Maharashtra<lb/> 16] Dr. Pravin V. Mahatale</addrLine>
+							<lb/>
+							</address>
+							<orgName type="department">Occ. Service</orgName>,
+							<lb/>
+							<orgName type="institution">Office of Associate Dean</orgName>,
+							<orgName type="department">College of Agriculture</orgName>,
+							<lb/>
+							<address>
+								<settlement>Sonapur</settlement>,
+								<settlement>Dist. Gadchiroli</settlement>,
+								<settlement>Maharashtra</settlement>
+							<lb/>
+							</address>
+							<orgName type="department">Occ. Service</orgName>,
+							<lb/>
+							<orgName type="institution">Office of Associate Dean</orgName>,
+							<orgName type="department">College of Agriculture</orgName>,
+							<lb/>
+							<address>
+								<settlement>Nagpur</settlement>,
+								<region>Maharashtra</region>
+							<lb/>
+							</address>
+							<orgName type="department">Occ. Service</orgName>,
+							<lb/>
+							<orgName type="institution">Office of Associate Dean</orgName>,
+							<orgName type="department">College of Agriculture</orgName>,
+							<lb/>
+							<address>
+								<settlement>Nagpur</settlement>,
+								<region>Maharashtra</region>
+							<lb/>
+							</address>
+							<orgName type="department">College of Agriculture</orgName>,
+							<address>
+								<settlement>Akola</settlement>,
+							<lb/>
+							</address>
+							<orgName type="department">College of Agriculture</orgName>,
+							<address>
+								<settlement>Akola</settlement>,
+							<lb/>
+							</address>
+							<orgName type="department">Department of Agriculture Botany</orgName>,
+							<lb/>
+							<orgName type="institution">Post Graduate Institute</orgName>,
+							<address>
+								<addrLine>Dr. Panjabrao<lb/> Deshmukh Krishi Vidyapeeth</addrLine>,
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

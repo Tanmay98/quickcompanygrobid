@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								 <forename>Mr</forename>.
+								 <middlename>Sunil</middlename>
+								 <surname>Gupta</surname>,
+							</persName>
+							<persName>
+								 <forename>Sr</forename>.
+								 <middlename>Adv</middlename>.
+								 <surname>with</surname>
+							</persName>
+							<persName>
+								 <forename>Mr</forename>.
+								 <middlename>Romy</middlename>
+								 <surname>Chacko</surname>,
+								 <roleName>Mr. Vedanta</roleName>
+							</persName>
+							<persName>
+								 <surname>Varma</surname>,
+								 <forename>Mr</forename>.
+							</persName>
+							<persName>
+								 <surname>Chandan</surname>
+								 <forename>Kumar</forename>
+							</persName>
+							<persName>
+								 <surname>Mandal</surname>,
+								 <forename>Mr</forename>.
+							</persName>
+							<persName>
+								 <surname>Akhil</surname>
+								 <forename>Kumar</forename>
+							</persName>
+							<persName>
+								 <surname>Gola</surname> and
+								 <forename>Ms</forename>.
+								 <middlename>Mannat</middlename>
+							</persName>
+							<persName>
+								 <surname>Sandhu</surname>,
+								 <roleName>Advs. Mr</roleName>.
+								 <middlename>Ramesh</middlename>
+							</persName>
+							<persName>
+								 <surname>Singh</surname>,
+								 <roleName>SC with Mr</roleName>.
+							</persName>
+							<persName>
+								 <surname>Santosh Kumar</surname>
+								 <forename>Tripathi</forename>
+							</persName>
+							<persName>
+								 <surname>GNCTD</surname>,
+								 <forename>Mr</forename>.
+								 <middlename>Chirayu</middlename>
+							</persName>
+							<persName>
+								 <surname>Jain</surname> and
+								 <forename>Ms</forename>.
+								 <middlename>Nikita</middlename>
+							</persName>
+							<persName>
+								 <surname>Goyal</surname>,
+								 <forename>Advs</forename>.
+							</persName>
+							<persName>
+								 <surname>for</surname>
+								 <forename>R-DOE</forename>
+							</persName>
+							<persName>
+								 <surname>Mr</surname>.
+							</persName>
+							<persName>
+								 <surname>Rajiv Bansal</surname>,
+								 <forename>Sr</forename>.
+								 <middlename>Adv</middlename>. with Mr.
+								 <middlename>Anuj</middlename>
+							</persName>
+							<persName>
+								 <surname>Chaturvedi</surname>,
+								 <roleName>Ms. Vaishali Rawat</roleName> and
+								 <forename>Ms</forename>.
+								 <middlename>Parul</middlename>
+							</persName>
+							<persName>
+								 <surname>Panthi</surname>,
+								 <forename>Advs</forename>.
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>
